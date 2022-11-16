@@ -3,6 +3,13 @@
 - Colville Confederated Tribes
 ![CCT logo](https://images.squarespace-cdn.com/content/v1/56a24f7f841aba12ab7ecfa9/1536329572239-NMGXDK5PCLQK2MXNLW0A/Colville_TribalLogoSeal.png)
 
+# Summary
+- Planning project for future development of Rogers Bar on Lake Roosevelt, for a recreational boat camping area
+- Rogers bar is located 20 miles south of the town of Inchelium
+- 2-300 acre site has been a camping and recreation area for 60+ years
+- Motor boating, water skiing, swimming, fishing, camping, and hiking
+- Remote area of the Colville Indian Reservation, will be accessed primarily by boaters, especially who are spending multiple days on the water
+
 # Criteria 1: Need
 - This is an area of critical need
 - Local socioeconomic / demographic factors
@@ -12,34 +19,34 @@
 - Rare opportunity for boat-based camping
 - Access to area for cultural practices and lifeways
 
-# Criteria 1: Site Suitability
+# Criteria 2: Site Suitability
 - Already part of tribal lands, intended for this use, and currently being used for boat camping
 - Rare, epic beaches are some of the nicest in state
 - Deep inlets create much more linear beach length than other sites, and protect cove area from wind
 
-# Criteria 1: Planning Success
+# Criteria 5: Planning Success
 - CCT has strong planning department, with robust practices, and close partnership with architecture partners
 - 30 years of planning grants with RCO
 - Two recent BFP planning grants, with Keller Ferry Launch development completed and Nicholson Beach planned for 2024
 
-# Criteria 1: Sustainability
+# Criteria 6: Sustainability
 - This is a key factor in intent and design
 - Purpose of project is to improve sustainability and usability of site, to improve user experience while reducing current environmental impacts
 - Focus will be on waste management, erosion reduction, fire prevention, and so on
 
-# Criteria 1: Cost-benefit
+# Criteria 7: Cost-benefit
 - Majority of land is already owned, approved for future recreational use
 - More "beach per buck"
 - Efficient planning costs
 - Will eventually result in massive recreational benefit of 300 acre site
 - Economic and cultural benefits will bring additional value to tribes
 
-# Criteria 1: Boats on Trailers
+# Criteria 8: Boats on Trailers
 - Yes, this will primarily be for boats on trailers
 - Launching from other sites, coming here by boat to camp
 - Launch development considered for future phases
 
-# Criteria 1: Boating Experience
+# Criteria 9: Boating Experience
 - This area can provide a world-class boating experience!
 - The lake is exceptional, the camping will be lovely
 - And beach camping from a boat is a special experience, even for long-time boaters and campers
@@ -48,7 +55,7 @@
 - Boating there is really, ***really*** fun!
 ![Traditional Fishing](https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/2/c6/2c6dd91a-1aaf-5599-bba9-64eee7e9be44/5cdfa0f19b36c.image.jpg?resize=722%2C500)
 
-# Criteria 1: Readiness
+# Criteria 10: Readiness
 - CCT has been considering this area and preparing for this project for many years
 - Planned acquisitions have been negotiated, reviewed for efficient transactions
 - CCT and architect are ready to start immediately
