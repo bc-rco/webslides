@@ -6,6 +6,8 @@
 ## Summary
 - Planning project for future development of Rogers Bar on Lake Roosevelt, for a recreational boat camping area
 - Rogers bar is located 20 miles south of the town of Inchelium
+![Rogers Bar aerial](https://secure.rco.wa.gov/prism/search/ProjectSnapshotAttachmentData.aspx?id=541841)
+
 - 2-300 acre site has been a camping and recreation area for 60+ years
 - Motor boating, water skiing, swimming, fishing, camping, and hiking
 - Remote area of the Colville Indian Reservation, will be accessed primarily by boaters, especially who are spending multiple days on the water
