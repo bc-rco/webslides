@@ -51,9 +51,15 @@
 - The lake is exceptional, the camping will be lovely
 - And beach camping from a boat is a special experience, even for long-time boaters and campers
 - Area is already desired and used by boaters, and this will make it all the better
-- Traditional use since time immemorial, opportunity for tribes to connect with visitors experientially - help them get a glimpse of why the area is so important to tribes, to be cherished and protected.
-- Boating there is really, ***really*** fun!
-![Traditional Fishing](https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/2/c6/2c6dd91a-1aaf-5599-bba9-64eee7e9be44/5cdfa0f19b36c.image.jpg?resize=722%2C500)
+
+# Criteria 9: Boating Experience
+- Traditional use of river since time immemorial
+- ![Traditional Fishing](https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/2/c6/2c6dd91a-1aaf-5599-bba9-64eee7e9be44/5cdfa0f19b36c.image.jpg?resize=361%2C250)
+- Opportunity for tribes to connect with visitors, help them get a glimpse of why the area is so important to tribes, to be cherished and protected.
+
+# Criteria 9: Boating Experience
+- Generations of tribal and non-tribal visitors agree: Boating at Rogers Bar is really, ***really*** fun!
+- ![Beach Camping](https://d3mqmy22owj503.cloudfront.net/55/500055/images/poi/lake-roosevelt-national-recreation-area/235-logo.jpg)
 
 # Criteria 10: Readiness
 - CCT has been considering this area and preparing for this project for many years
