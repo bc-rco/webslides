@@ -1,7 +1,8 @@
 ## Rogers Bar Boating
 - Project # 22-2190
 - Colville Confederated Tribes
-![CCT logo](https://images.squarespace-cdn.com/content/v1/56a24f7f841aba12ab7ecfa9/1536329572239-NMGXDK5PCLQK2MXNLW0A/Colville_TribalLogoSeal.png)
+- ![CCT logo](https://images.squarespace-cdn.com/content/v1/56a24f7f841aba12ab7ecfa9/1536329572239-NMGXDK5PCLQK2MXNLW0A/Colville_TribalLogoSeal.png)
+- [Use arrow keys to advance slides](http://deckdown.org/deck?src=https://raw.githubusercontent.com/bc-rco/webslides/main/22-2190%20CCT%20Rogers%20Bar%20Tech%20Review.md)
 
 ## Summary
 - Planning project for future development of Rogers Bar on Lake Roosevelt, for a recreational boat camping area
